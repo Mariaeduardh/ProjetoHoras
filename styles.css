@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(60, 58, 172);
+    font: normal 15pt arial;
+    
+}
+header{
+     color:
+      aliceblue;
+     text-align: center;
+     padding: 20px;
+}
+section{
+    background-color: rgb(247, 248, 238);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.452);
+}
+footer{
+     color:
+     aliceblue; 
+     text-align: center;
+}
+#foto {
+    max-width: 100%; /* Define a largura máxima da div foto */
+}
+
+#foto img {
+    width: 70%; /* Define a largura das imagens dentro da div foto como 100% da largura da div pai */
+    height: auto; /* Mantém a proporção da altura para evitar distorções */
+}
+div{
+    text-align: center;
+    padding: 8px;
+}
+#foto img {
+    text-align: center;
+}
